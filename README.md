@@ -5,7 +5,7 @@ It features a **header** and **hero section** for a NFT Marketplace website.
 
 ## 🖥 Preview
 
-![Project preview](./src/images/PreviewNFT.png)
+![Project preview](src/images/PreviewNFT.png)
 
 > The preview image shows the final version of the layout. It includes a styled header with navigation and a modern hero section.
 

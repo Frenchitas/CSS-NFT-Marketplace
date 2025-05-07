@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate into the project directory:**
    ```bash
-   cd Css-Coworking-Space
+   cd Css-NFT-Marketplace
 
 3. **Install dependencies (make sure you have Node.js and npm installed):**
    ```bash

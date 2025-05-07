@@ -5,10 +5,7 @@ It features a **header** and **hero section** for a NFT Marketplace website.
 
 ## 🖥 Preview
 
-[![Imagen](src/images/PreviewNFT.png)
-](https://raw.githubusercontent.com/Frenchitas/CSS-NFT-Marketplace/master/src/images/PreviewNFT.png
-)
-> The preview image shows the final version of the layout. It includes a styled header with navigation and a modern hero section.
+![Imagen](src/images/PreviewNFT.png)
 
 ## 🚀 Technologies Used
 

@@ -16,3 +16,20 @@ It features a **header** and **hero section** for a NFT Marketplace website.
 ## 🚀 Setup Instructions
 
 To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Frenchitas/CSS-NFT-Marketplace.git
+
+2. **Navigate into the project directory:**
+   ```bash
+   cd Css-Coworking-Space
+
+3. **Install dependencies (make sure you have Node.js and npm installed):**
+   ```bash
+   npm install
+
+4. **Start the development server:**
+    ```bash
+   npm run dev
+Your project should now be running at http://localhost:5173/ (or another port if already in use).

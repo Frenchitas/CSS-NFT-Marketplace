@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'; 
 
 export default defineConfig({
- base: '/CSS-NFT-MARKETPLACE/',
+ base: '/CSS-NFT-Marketplace/',
 });
